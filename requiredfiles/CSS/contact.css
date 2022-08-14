@@ -1,0 +1,124 @@
+
+body{
+    background: url(/requiredfiles/images/Contact-banner.jpg);
+    height:10cm;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.float-r{
+    float: right;
+    font-family: 'poppins',sans-serif;
+    margin-top: 5px;
+}
+.nav-1::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #f44336;
+    display: block;
+    margin: auto;
+    transition: 0.5s;   
+ }
+ .nav-1:hover:after{
+     width: 100%;
+ }
+ .paddding-1{
+    padding: 20px;
+    margin: 2px;
+}
+.color{
+    color:white
+}
+.text-center {
+    text-align: center;
+}
+.middle{
+    text-align: center;
+}
+.center{
+    text-align: center;
+   
+}
+.margin-1{
+    margin: 5px;
+    margin-left: 6px;
+    padding: 10px;
+}
+h4{
+    margin-top: 0px;
+}
+h1{
+ padding: 10px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+.m1px {
+    margin-top: 2px;
+}
+.p-5{
+    padding: 30px;
+    color: darkblue;
+}
+.row{
+    margin-top: 3cm;
+}
+.p-1{
+    padding: 15px;
+}
+
+.marginl{
+    margin-bottom: 2px;
+}
+.margin2{
+    margin-right: 15px;
+}
+.p-6{
+    background-color:orange;
+    color: darkblue;
+}
+
+.border{
+    border: solid 50px grey;
+    margin: 5px;
+    background-color: azure;
+}
+.margin3{
+    text-align: justify;
+    
+}
+.sizef{
+    width: 15cm;
+    padding-left: 12cm;
+    text-align: center;
+    
+}
+.row-1{
+    margin-top: 50px;
+}
+
+.margin-4{
+    margin-top: 6cm;
+}
+.margin-5{
+    margin-top: 3cm;
+    margin-bottom: 2cm;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
